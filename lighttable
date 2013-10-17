@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd ~/apps/LightTable-0.5.2
+./LightTable $* &
